@@ -1,0 +1,18 @@
+:root {
+  --dark-blue: #003554;
+  --medium-blue: #007fc5;
+  --light-blue: #d1e8fa;
+  --violet: #2c4390;
+  --light-grey: #e6e6e6;
+  --grey: #adadad;
+  --dark-grey: #454545; }
+
+/* CSS Document */
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 20px;
+  line-height: 26px;
+  font-family: Arial, Helvetica, sans-serif; }
+
+/*# sourceMappingURL=styles.css.map */

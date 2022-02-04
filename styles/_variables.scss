@@ -1,0 +1,28 @@
+
+// COLORS
+:root {
+    --dark-blue: #003554;
+    --medium-blue: #007fc5;
+    --light-blue: #d1e8fa;
+    --violet: #2c4390;
+    --light-grey: #e6e6e6;
+    --grey: #adadad;
+    --dark-grey: #454545;
+}
+
+$color-primary: var(--dark-blue);
+$color-secundary: var(--medium-blue);
+$color-text: var(--dark-grey);
+
+// BREAKPOINTS
+$screen-xs-min: 375px;
+$screen-sm-min: 576px;
+$screen-md-min: 768px;
+$screen-lg-min: 992px;
+$screen-xl-min: 1200px;
+$screen-xxl-min: 1366px;
+$screen-xxxl-min: 1440px;
+$screen-xxxxl-min: 1600px;
+
+$max-vw: 1920px;
+$min-vw: 320px;
